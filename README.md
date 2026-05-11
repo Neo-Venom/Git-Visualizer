@@ -29,40 +29,6 @@
 - **Icons**: Lucide React
 - **State Management**: Custom lightweight topological Git engine
 
-## 💻 Local Development
-
-1. **Clone the repository** (or your own fork):
-   ```bash
-   git clone https://github.com/iamgh/gitflow-visualizer.git
-   cd gitflow-visualizer
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-
-4. Open your browser and navigate to `http://localhost:8081` to start visualizing!
-
-## ☁️ Deploying to Vercel
-
-Publishing this application to Vercel is incredibly easy since it's a standard Vite application. Follow these steps to get a live URL:
-
-1. Create an account on [Vercel](https://vercel.com/) and connect it to your GitHub account.
-2. In the Vercel dashboard, click **Add New...** -> **Project**.
-3. Import the `gitflow-visualizer` repository.
-4. Vercel will automatically detect that it's a Vite project. The default settings should be perfect:
-   - **Framework Preset**: Vite
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist`
-5. Click **Deploy**.
-6. Once deployed, Vercel will give you a live URL. **Come back to this `README.md` and replace the `#` in the Vercel badge at the top with your new URL!**
-
 ## 🤝 Credits
 
-© {YEAR} All rights reserved. Built by [iamgh](https://github.com/iamgh).
+© {YEAR} All rights reserved. Built by [Shubh](https://github.com/Neo-Venom).
