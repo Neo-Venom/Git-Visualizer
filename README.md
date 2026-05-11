@@ -29,6 +29,8 @@
 - **Icons**: Lucide React
 - **State Management**: Custom lightweight topological Git engine
 
+## Live URL [Git Visualizer](https://git-visualizer-five.vercel.app/)
+
 ## 🤝 Credits
 
 © 2026 All rights reserved. Built by [Shubh](https://github.com/Neo-Venom).
