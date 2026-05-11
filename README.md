@@ -31,4 +31,4 @@
 
 ## 🤝 Credits
 
-© {YEAR} All rights reserved. Built by [Shubh](https://github.com/Neo-Venom).
+© 2026 All rights reserved. Built by [Shubh](https://github.com/Neo-Venom).
