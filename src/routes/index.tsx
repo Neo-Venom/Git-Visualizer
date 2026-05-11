@@ -13,7 +13,7 @@ function Index() {
 
   const handleCommand = (command: string) => {
     const result = processCommand(gitState, command);
-    
+
     // Create new history entry
     const newHistoryEntry = {
       command,
@@ -48,7 +48,7 @@ function Index() {
         <div className="w-1/3 min-w-[300px] border-r border-[#1f2937]">
           <Terminal state={gitState} onCommand={handleCommand} />
         </div>
-        
+
         {/* Graph Pane */}
         <div className="flex-1 min-w-[400px] flex flex-col h-full">
           <GitGraph state={gitState} />
@@ -59,13 +59,13 @@ function Index() {
       <footer className="h-10 border-t border-[#1f2937] bg-[#111827] flex items-center justify-center shrink-0">
         <p className="text-[#565f89] text-xs">
           © {new Date().getFullYear()} All rights reserved. Built by{' '}
-          <a 
-            href="https://github.com/iamgh" 
-            target="_blank" 
+          <a
+            href="https://github.com/Neo-Venom"
+            target="_blank"
             rel="noopener noreferrer"
             className="text-[#7aa2f7] hover:text-[#9ece6a] transition-colors font-semibold"
           >
-            iamgh
+            Shubh
           </a>
         </p>
       </footer>
